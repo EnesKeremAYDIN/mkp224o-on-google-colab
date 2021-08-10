@@ -1,5 +1,5 @@
 # mkp224o-on-google-colab
-[mkp224o](https://github.com/cathugger/mkp224o) on Google Colab.
+[mkp224o](https://github.com/cathugger/mkp224o) on [Google Colab](https://colab.research.google.com).
 
 !git clone https://github.com/cathugger/mkp224o.git  
 cd mkp224o/  
