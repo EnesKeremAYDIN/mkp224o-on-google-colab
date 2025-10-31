@@ -1,6 +1,6 @@
 # mkp224o on Google Colab
 
-A Google Colab notebook to generate vanity `.onion` addresses for Tor v3 hidden services using `mkp224o`. This notebook allows users to harness Google Colab’s computational power to generate custom `.onion` addresses without needing a high-performance local machine.
+Google Colab notebook to generate vanity `.onion` addresses for Tor v3 hidden services using `mkp224o`. This notebook allows users to harness Google Colab’s computational power to generate custom `.onion` addresses without needing a high-performance local machine.
 
 ## Features
 
